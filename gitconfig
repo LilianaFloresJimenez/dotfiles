@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = liliana.m.floresjimenez@gmail.com
+	name = liliana.m.floresjimenez@gmail.com
